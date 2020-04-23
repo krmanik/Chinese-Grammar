@@ -6,7 +6,7 @@ Deck is separated in HSK level (HSK1 to HSK6).
 The decks are divided in to 6 parts. It is easy to import in part wise.
 
 # Download
-<br> - [HSK1](https://ankiweb.net/shared/info/551486109)
+- [HSK1](https://ankiweb.net/shared/info/551486109)
 <br> - [HSK2](https://ankiweb.net/shared/info/1526210323)
 <br> - [HSK3](https://ankiweb.net/shared/info/1248498506)
 <br> - [HSK4](https://ankiweb.net/shared/info/1705122553)
