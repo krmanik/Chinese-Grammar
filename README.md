@@ -7,11 +7,11 @@ The decks are divided in to 6 parts. It is easy to import in part wise.
 
 # Download
 - [HSK1](https://ankiweb.net/shared/info/551486109)
-<br> - [HSK2](https://ankiweb.net/shared/info/1526210323)
-<br> - [HSK3](https://ankiweb.net/shared/info/1248498506)
-<br> - [HSK4](https://ankiweb.net/shared/info/1705122553)
-<br> - [HSK5](https://ankiweb.net/shared/info/1395037365)
-<br> - [HSK6](https://ankiweb.net/shared/info/2120672269)
+- [HSK2](https://ankiweb.net/shared/info/1526210323)
+- [HSK3](https://ankiweb.net/shared/info/1248498506)
+- [HSK4](https://ankiweb.net/shared/info/1705122553)
+- [HSK5](https://ankiweb.net/shared/info/1395037365)
+- [HSK6](https://ankiweb.net/shared/info/2120672269)
 
 
 # Images Anki Desktop
