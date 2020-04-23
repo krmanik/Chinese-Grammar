@@ -13,7 +13,6 @@ The decks are divided in to 6 parts. It is easy to import in part wise.
 - [HSK5](https://ankiweb.net/shared/info/1395037365)
 - [HSK6](https://ankiweb.net/shared/info/2120672269)
 
-
 # Images Anki Desktop
 ![Desktop](https://github.com/infinyte7/Chinese-Grammar/blob/master/Images/anki_desktop.png)
 
@@ -29,9 +28,17 @@ The pinyin may be incorrect for example.
 
 Check this website for more. <a href="http://blog.tutorming.com/mandarin-chinese-learning-tips/chinese-characters-with-various-pronunciations">tutorming.com</a>
 
+# Code
+[Front Template](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/front_card.html)
+<br>[Back Template](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/back_card.html)
+<br>[Card CSS](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/card.css)
+
 # Python Script
 Find the python script in the repo.
-That may not be perfect script but I have used to make this.
+That may not be perfect script but I have used it to make this.
+
+# My other Anki decks
+[Other Anki Decks](https://ankiweb.net/shared/byauthor/2120672269)
 
 # License
 <b>[Chinese Grammar Wiki ©2011-2020 AllSet Learning](https://resources.allsetlearning.com/chinese/grammar/Chinese%20Grammar%20Wiki:Copyrights)</b>
