@@ -1,0 +1,54 @@
+/chinese/grammar/ASG846EA	ASG846EA	Expressing actions in progress with "zai"	(正)在 + Verb	我们 正在 吃饭。
+/chinese/grammar/ASGPNV3Q	ASGPNV3Q	Negation of "you" with "mei"	没 + 有	我 没有 钱 。
+/chinese/grammar/ASGIPYFV	ASGIPYFV	Standard negation with "bu"	不 + Verb / Adj.	他们 不 是 坏 孩子。
+/chinese/grammar/ASG9YK09	ASG9YK09	The "all" adverb "dou"	都 + Verb / Adj.	我们 都 住 在 上海。
+/chinese/grammar/ASGG25MD	ASGG25MD	The "also" adverb "ye"	也 + Verb / Adj.	昨天 很 冷，今天 也 很 冷。
+/chinese/grammar/ASG9LLJU	ASG9LLJU	Asking about degree with "duo"	Subj. + 多 + Adj. ?	他 多 高？
+/chinese/grammar/ASGUNMHU	ASGUNMHU	Expressing "not very" with "bu tai"	不太 + Adj.	他 不太 高兴 。我 不太 喜欢。
+/chinese/grammar/ASGP0KFF	ASGP0KFF	Expressing "and" with "he"	Noun 1 + 和 + Noun 2	我 和 他 都 不 去。
+/chinese/grammar/ASGRLQGY	ASGRLQGY	After a specific time with "yihou"	Time / Verb + 以后	10点 以后 ，我 不 在 家。
+/chinese/grammar/ASGJ2OJC	ASGJ2OJC	Before a specific time with "yiqian"	Time / Verb + 以前	十 点 以前，我 在 家。
+/chinese/grammar/ASG5RWKO	ASG5RWKO	Time words and word order	Subj. + Time⋯⋯ / Time + Subj.⋯⋯	我 明天 有 空。 明天 我 有 空。
+/chinese/grammar/ASGQUKJF	ASGQUKJF	Age with "sui"	Subj. + Number + 岁	我 20 岁 。
+/chinese/grammar/ASGI0T9S	ASGI0T9S	Measure word "ge"	Number + 个 + Noun	一 个 人 。
+/chinese/grammar/ASGT3KF6	ASGT3KF6	Structure of dates	Number + 年 + Number + 月 + Number + 日	今天 是 2011年 11月 11日号 。
+/chinese/grammar/ASGVH4Q5	ASGVH4Q5	Structure of days of the week	星期 + Number	今天 星期三 。
+/chinese/grammar/ASGCRH6P	ASGCRH6P	Structure of numbers	Number + Unit	三 百 五 十 九。
+/chinese/grammar/ASGDTO07	ASGDTO07	Structure of times (advanced)	Number 1 + 点(钟) + Number 2 + 分	现在 十一点十八分 。
+/chinese/grammar/ASGN6BBU	ASGN6BBU	Structure of times (basic)	Number + 点(钟)	现在 十一点 。
+/chinese/grammar/ASGCI0KG	ASGCI0KG	Expressing close possession without "de"	Pronoun + Noun	我 女朋友
+/chinese/grammar/ASGAGDCQ	ASGAGDCQ	Expressing completion with "le"	Subj. + Verb + 了 + Obj.	我 吃 了 两 个 苹果。
+/chinese/grammar/ASGFR96B	ASGFR96B	Expressing "not anymore" with "le"	不 / 没(有) + Verb Phrase + 了	我 不 想 吃 了 。
+/chinese/grammar/ASGE5Q4J	ASGE5Q4J	Expressing "now" with "le"	New Situation + 了	吃饭 了！
+/chinese/grammar/ASGUHQD2	ASGUHQD2	Expressing possession with "de"	Noun 1 + 的 + Noun 2	我 的 老师
+/chinese/grammar/ASGMJHZO	ASGMJHZO	Questions with "ne"	⋯⋯呢 ?	我 很 好。你 呢 ?
+/chinese/grammar/ASGW66JM	ASGW66JM	Sentence-final interjection "a"	⋯⋯啊	是 啊！谁 啊？
+/chinese/grammar/ASGDHC1H	ASGDHC1H	Softening speech with "ba"	⋯⋯吧	这样 不 太 好 吧。
+/chinese/grammar/ASGMPZ6D	ASGMPZ6D	Suggestions with "ba"	Command + 吧	我们 走 吧 。
+/chinese/grammar/ASGRBKSL	ASGRBKSL	Directional verbs "lai" and "qu"	来 / 去 + Place	我 来 上海 一 年 了。
+/chinese/grammar/ASGLRWT8	ASGLRWT8	Expressing existence in a place with "zai"	在 + Place	老师 在 上海 。
+/chinese/grammar/ASG04ZCI	ASG04ZCI	Expressing existence with "you"	Place + 有 + Obj.	我们 学校 有 很 多 学生。
+/chinese/grammar/ASGOOCVO	ASGOOCVO	Expressing possession with "you"	Subj. + 有 + Obj.	我 有 钱。
+/chinese/grammar/ASG25C48	ASG25C48	Polite requests with "qing"	请 + Verb	请 坐 。
+/chinese/grammar/ASGUGWVZ	ASGUGWVZ	Using the verb "jiao"	叫 + Name	你 叫 什么 名字 ？
+/chinese/grammar/ASGFYNCL	ASGFYNCL	Using the verb "qu"	去 + Place	我 去 学校。
+/chinese/grammar/ASG9PQ40	ASG9PQ40	Expressing ability or possibility with "neng"	能 + Verb	中文 这么 难，你  能 学 好 吗？
+/chinese/grammar/ASGRHM0E	ASGRHM0E	Expressing a learned skill with "hui"	会 + Verb	他 会 说 中文 。
+/chinese/grammar/ASGW9737	ASGW9737	Expressing "will" with "hui"	会 + Verb	明天 你 会 来 吗？
+/chinese/grammar/ASGT97VF	ASGT97VF	Expressing "would like to" with "xiang"	想 + Verb	我 想 去。
+/chinese/grammar/ASGH2MNO	ASGH2MNO	How to do something with "zenme"	怎么 + Verb ?	怎么 走?
+/chinese/grammar/ASGX0Z0N	ASGX0Z0N	Indicating location with "zai" before verbs	Subj. + 在 + Place + Verb	我 在 上海 工作。
+/chinese/grammar/ASGAUCXK	ASGAUCXK	Negation of past actions with "meiyou"	没有 + Verb	我 没有 去 酒吧。
+/chinese/grammar/ASGETNCO	ASGETNCO	Basic sentence order	Subj. + Verb (+ Obj.)	我 爱 你 。
+/chinese/grammar/ASGUN7RX	ASGUN7RX	Connecting nouns with "shi"	A + 是 + B	我 是 学生 。
+/chinese/grammar/ASG8HVFN	ASG8HVFN	Expressing "excessively" with "tai"	太 + Adj. + 了	太 好 了 !
+/chinese/grammar/ASG17BLH	ASG17BLH	Simple "noun + adjective" sentences	Noun + 很 + Adj.	我 很 好。
+/chinese/grammar/ASGWVZ0T	ASGWVZ0T	Expressing "some" with "yixie"	一些 + Noun	这里 有 一些 咖啡。
+/chinese/grammar/ASGL6JOE	ASGL6JOE	Counting money	Number + 块 / 元 (+ Number + 毛 / 角) (+ 钱)	给 你 五 块 三 毛。
+/chinese/grammar/ASGL9KQM	ASGL9KQM	Measure words in quantity questions	几 + Measure Word (+ Noun) ?	几 个 人？
+/chinese/grammar/ASGC701A	ASGC701A	Asking how something is with "zenmeyang"	⋯⋯怎么样？	你 最近 怎么样 ？
+/chinese/grammar/ASGJQPSC	ASGJQPSC	Placement of question words	什么 / 什么时候 / 谁 / 哪儿 / 为什么 / 怎么	你 是 谁 ？你 在 哪儿 ？
+/chinese/grammar/ASGYKDNF	ASGYKDNF	Questions with "le ma"	Verb + 了 + 吗？	你 吃饭 了 吗 ？
+/chinese/grammar/ASGQ2AZA	ASGQ2AZA	Yes-no questions with "ma"	⋯⋯吗？	他 是 老板 吗 ?
+/chinese/grammar/ASGE662E	ASGE662E	The "shi... de" construction for emphasizing details	是⋯⋯ 的	你 是 怎么 来 的？
+/chinese/grammar/ASGRJ1BI	ASGRJ1BI	Comparing "bu" and "mei"	不 vs 没	我 今天 晚上 不 吃饭。昨天 晚上 我 没 吃饭。

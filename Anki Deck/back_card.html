@@ -1,0 +1,25 @@
+<div id="title" class="title">{{Title}}</div>
+<div class="spacer"></div>
+<div id="structure" class="structure">{{Structure}}</div>
+<div class="spacerMedium"></div>
+<div id="chinese" class="chinese">{{Chinese}}</div>
+<div class="spacerSmall"></div>
+<div id="pinyin" class="pinyin">{{Pinyin}}</div>
+<div class="spacerMedium"></div>
+<div id="translation" class="translation">{{Translation}}</div>
+<div class="spacerMedium"></div>
+<div id="audio" style="display:none">{{Sound}}</div>
+<button class="btn-play" onclick="playAudio();">PLAY</button>
+<div class="spacerMedium"></div>
+<div id="usedfor" class="notes">{{UsedFor}}</div>
+<div class="notes">
+    <div class="spacerSmall"></div>
+    <div id="notes"><a href={{Url}}>{{Url}}</a></div>
+</div>
+<script>
+    function playAudio() {
+        var audioDiv = document.getElementById('audio');
+        var audio = audioDiv.getElementsByTagName("*");
+        audio[0].click();
+    }
+</script>

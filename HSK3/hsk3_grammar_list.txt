@@ -1,0 +1,84 @@
+/chinese/grammar/ASGVME5V	ASGVME5V	Adjectives with "-ji le"	Adj. + 极了	这个 主意 好 极了 。
+/chinese/grammar/ASGDHE8S	ASGDHE8S	Reduplication of adjectives	Adj. + Adj.	你 应该 慢慢 地 走。
+/chinese/grammar/ASGMAFSX	ASGMAFSX	Turning adjectives into adverbs	Adj. + 地 + Verb	你 要 认真 地 学习。
+/chinese/grammar/ASGN1JR5	ASGN1JR5	Expressing "again" in the past with "you"	又 + Verb + 了	你 又 迟到 了 。
+/chinese/grammar/ASGP000J	ASGP000J	Expressing "all along" with "yizhi"	Subj. + 一直 + Predicate	我 一直 在 现在 的 公司 工作。
+/chinese/grammar/ASGXJPJS	ASGXJPJS	Expressing "always" with "zongshi"	总是 + Verb	他 总是 迟到。
+/chinese/grammar/ASGSVF28	ASGSVF28	Expressing duration of inaction	Duration + 没 + Verb + 了	他 已经 一 个 星期 没 洗澡 了 。
+/chinese/grammar/ASG700A5	ASG700A5	Expressing "finally" with "zhongyu"	Subj. + 终于 + Predicate + 了	你 终于 到 了 。
+/chinese/grammar/ASG3WTCJ	ASG3WTCJ	Expressing lateness with "cai"	Subj. + Time + 才 + Verb	他 二十五 岁 才 上 大学 。
+/chinese/grammar/ASGN8C8R	ASGN8C8R	Expressing "only" with "zhi"	只 + Verb	我 只 有 一个 妹妹。
+/chinese/grammar/ASGLJM55	ASGLJM55	Sequencing with "xian" and "zai"	先⋯⋯ ，再⋯⋯	先 洗 手 ，再 吃饭 。
+/chinese/grammar/ASG2ZC5S	ASG2ZC5S	Simultaneous tasks with "yibian"	一边 + Verb 1 (，) 一边 + Verb 2	不要 一边 说话 ，一边 吃 东西。
+/chinese/grammar/ASGII66E	ASGII66E	Using "always" as a complaint with "laoshi"	Subj. + 老 (是 ) + Verb	你 怎么 老是 加班 ？
+/chinese/grammar/ASGYW5RS	ASGYW5RS	Using "cai" for small numbers	才 + Number + Measure Word + Noun	这 个 班 才 两 个 学生 。
+/chinese/grammar/ASGNKKP6	ASGNKKP6	Adjectives with "name" and "zheme"	那么 / 这么 + Adj.	你 怎么 那么 忙 ？
+/chinese/grammar/ASGC06N0	ASGC06N0	Basic comparisons with "yiyang"	Noun 1 + 跟 / 和 + Noun 2 + 一样 + Adj.	你 跟 他 一样 高 。
+/chinese/grammar/ASGPFUM2	ASGPFUM2	Expressing "both A and B" with "you"	又⋯⋯ 又⋯⋯	他 又 高 又 帅。
+/chinese/grammar/ASG72HKP	ASG72HKP	Expressing "rather" with "bijiao"	Subj. + 比较 + Adj.	这个 问题 比较 简单 。
+/chinese/grammar/ASGGH7RR	ASGGH7RR	Intensifying with "duo"	Subj. + 多 + Adj.	多 好！外面 多 舒服！
+/chinese/grammar/ASGVUFKX	ASGVUFKX	Modifying nouns with adjective + "de"	Adj. + 的 + Noun	好喝 的 啤酒  可爱 的 宝宝
+/chinese/grammar/ASG6HYOU	ASG6HYOU	Expressing "or" in statements	⋯⋯或者⋯⋯	我 想 去 青岛 或者 南京。
+/chinese/grammar/ASGX298Z	ASGX298Z	Expressing "then…" with "name"	那么⋯⋯	他 不 听 ，那 我 应该 怎么办 ？
+/chinese/grammar/ASGSZ0HP	ASGSZ0HP	Expressing "with" with "gen"	跟⋯⋯ + Verb	你 要 跟 我 一起 去 吗？
+/chinese/grammar/ASGA8NIB	ASGA8NIB	Offering choices with "haishi"	A + 还是 + B ?	你 要 喝 茶 还是 咖啡 ?
+/chinese/grammar/ASGJ2OJC	ASGJ2OJC	Before a specific time with "yiqian"	Time / Verb + 以前	十 点 以前，我 在 家。
+/chinese/grammar/ASGVCWLU	ASGVCWLU	Expressing "before" in general with "yiqian"	以前，⋯⋯	以前，我 不 会 说 中文。
+/chinese/grammar/ASGQ1KOY	ASGQ1KOY	Expressing "just now" with "gangcai"	刚才 + Verb	你 刚才 说 什么 了？
+/chinese/grammar/ASGGL59D	ASGGL59D	Expressing "when" with "shi"	Time + 时	考试 时 不要 说话 。
+/chinese/grammar/ASGPVFU1	ASGPVFU1	In the future in general with "yihou"	以后，⋯⋯	以后，你 不要 问 我。
+/chinese/grammar/ASGY0UDC	ASGY0UDC	Sequencing past events with "houlai"	⋯⋯ ，后来 ⋯⋯	开始 他 不 同意， 但 后来 同意了。
+/chinese/grammar/ASGOUD8U	ASGOUD8U	Approximating with sequential numbers	Number 1 + Number 2	三 四个 人。一 两 天。
+/chinese/grammar/ASGIM3AX	ASGIM3AX	Big numbers in Chinese	Number + 万 / 亿	五 万
+/chinese/grammar/ASGDTO07	ASGDTO07	Structure of times (advanced)	Number 1 + 点(钟) + Number 2 + 分	现在 十一点十八分 。
+/chinese/grammar/ASGN6BBU	ASGN6BBU	Structure of times (basic)	Number + 点(钟)	现在 十一点 。
+/chinese/grammar/ASGOIDEO	ASGOIDEO	Aspect particle "zhe"	Verb + 着	我 读 ，你 听 着 。
+/chinese/grammar/ASGT185D	ASGT185D	Change of state with "le"	⋯⋯了	我 25 岁 了。
+/chinese/grammar/ASGMJHZO	ASGMJHZO	Questions with "ne"	⋯⋯呢 ?	我 很 好。你 呢 ?
+/chinese/grammar/ASG5MOMM	ASG5MOMM	Structural particle "de"	的 / 得 / 地	红色的车，跑得很快，慢慢地走
+/chinese/grammar/ASG49889	ASG49889	Expressing "about" with "guanyu"	关于 + Obj. ，⋯⋯	关于 中国 历史 ，我 知道 的 不 多 。
+/chinese/grammar/ASGC6E1C	ASGC6E1C	Expressing "all the way until" with "zhidao"	直到 + Time / Event ，Subj. + 才 ⋯⋯	直到 十二 点 半 ，我 才 做 完 作业 。
+/chinese/grammar/ASGQXARS	ASGQXARS	Expressing "towards" with "xiang"	向 + Direction / Person + Verb	你 必须 向 他 道歉！
+/chinese/grammar/ASG9K0F8	ASG9K0F8	Appearance with "kanqilai"	看起来⋯⋯	这 家 餐厅 看起来 不错 。
+/chinese/grammar/ASGEAH5M	ASGEAH5M	Basic comparisons with "meiyou"	Noun 1 + 没(有) + Noun 2 + Adj.	你 没有 我 胖 。
+/chinese/grammar/ASG5T7XC	ASG5T7XC	Causative verbs	Subj. + 让 / 叫 / 请 / 使 + Person + Predicate	你 为什么 不 让 我 去 ？
+/chinese/grammar/ASG11DA8	ASG11DA8	Expressing "through" with "jingguo"	经过 + Event / Time ，⋯⋯	经过 自己 的 努力 ，她 考上 了 北京 大学 。
+/chinese/grammar/ASGV01X9	ASGV01X9	Expressing "should" with "yinggai"	应该 / 该 + Verb	你 应该 工作。
+/chinese/grammar/ASG35T4H	ASG35T4H	Expressing "difficult" with "nan"	难 + Verb	难 做。难 买。
+/chinese/grammar/ASGJ36VN	ASGJ36VN	Expressing duration with "le"	Verb + 了 + Duration	他 在 北京 住 了 两 年。
+/chinese/grammar/ASG69RR8	ASG69RR8	Expressing ongoing duration with double "le"	Verb + 了 + Duration + 了	他 在 北京 住 了 两 年 了。
+/chinese/grammar/ASGI2KHC	ASGI2KHC	Inability with "mei banfa"	没办法 + Verb	我 没 办法 帮 你。
+/chinese/grammar/ASGYC77J	ASGYC77J	Reduplication of verbs	Verb + Verb	你 看看。
+/chinese/grammar/ASGID0E8	ASGID0E8	Special verbs with "hen"	很 + Verb	我 很 喜欢 他。
+/chinese/grammar/ASG8LWBJ	ASG8LWBJ	Direction complement	Verb (+ Direction) + 来 / 去	我们 走 过去 吧 。
+/chinese/grammar/ASGCPJPQ	ASGCPJPQ	Potential complement	Verb + 得 / 不 + Complement	做 得 完  做 不 完
+/chinese/grammar/ASGNNMST	ASGNNMST	Result complements	Verb + 好 / 完 / 错	我们 吃 好 了 。
+/chinese/grammar/ASG1PTJX	ASG1PTJX	Result complement "-xiaqu"	Verb + 下去	这个 故事 太 无聊 了 ，我 听 不 下去 了 。
+/chinese/grammar/ASG98C1A	ASG98C1A	Expressing "as long as" with "zhiyao"	只要⋯⋯，就⋯⋯	只要 你 过来 ， 我们 就 很 开心 。
+/chinese/grammar/ASG9E9A6	ASG9E9A6	Expressing "only after" with "cai"	⋯⋯，才⋯⋯	那 本 书 我 看 了 两 遍 才 看 懂。
+/chinese/grammar/ASGJDV3Y	ASGJDV3Y	Expressing "only if" with "zhiyou"	只有⋯⋯，才⋯⋯	只有 你 帮忙 ， 我 才 能 完成 任务 。
+/chinese/grammar/ASG4NDHB	ASG4NDHB	Using "youde" to mean "some"	有的 + Noun	派对的时候，有的人在喝酒，有的人在跳舞，还有的人在聊天。
+/chinese/grammar/ASGAC1P9	ASGAC1P9	Expressing "half" with "ban"	Number + Measure Word + 半 + Noun	三 个 半 小时
+/chinese/grammar/ASGUQ861	ASGUQ861	Expressing "not even one"	一 + Measure Word + (Noun) + 也 / 都 + 不 / 没 + Verb	一 句 中文 都 不 会 说 。
+/chinese/grammar/ASGB44F6	ASGB44F6	Expressing "the more... the more..." with "yue… yue…"	Subj.＋越＋Verb＋越 + Adj. / Verb	她 越 想 越 生气 。
+/chinese/grammar/ASG2UB2B	ASG2UB2B	Using "ba" sentences	Subj. + 把 + Obj.+ Verb Phrase	我 把 书 看 完 了。
+/chinese/grammar/ASGHF9F1	ASGHF9F1	Using "bei" sentences	Subj. + 被 + Doer + Verb Phrase	我 被 他 骗 了 。
+/chinese/grammar/ASGAC619	ASGAC619	Alternative existential sentences	Place + Verb + 着 + Noun Phrase	桌子 上 放 着 一 本 书 。
+/chinese/grammar/ASGDUZ55	ASGDUZ55	Expressing "as one likes" with "jiu"	想 + Question Word + 就 + Question Word	想 去 哪儿 就 去 哪儿 。
+/chinese/grammar/ASG13ALM	ASG13ALM	Expressing "every" with question words	Question Word + 都 + Predicate	谁 都 可以 进 。
+/chinese/grammar/ASG7UE4H	ASG7UE4H	Expressing "more and more" with "yuelaiyue"	Subj. + 越来越 + Adj. + 了	天气 越来越 冷 了。
+/chinese/grammar/ASGQGJXT	ASGQGJXT	Expressing purpose with "weile"	为了 + Purpose + Verb	为了 钱 ，他 什么 都 愿意 做 。
+/chinese/grammar/ASG7ED89	ASG7ED89	Expressing "some" with question words	在哪儿 / 谁 / 什么 / 什么时候	这个 人 我 在 哪儿 见 过 。
+/chinese/grammar/ASG5DG95	ASG5DG95	Expressing comparable degree with "you"	Noun 1 有 Noun 2 + Adj. + 吗？	他 有 我 帅 吗 ？
+/chinese/grammar/ASG920B7	ASG920B7	Expressing "compared with" using "gen"	跟 + Noun 1 + 比 (起来) ，Noun 2⋯⋯	跟 上海 比 ，北京 的 冬天 比较 干 。
+/chinese/grammar/ASG64E96	ASG64E96	Expressing "even more" with "geng" or "hai"	Noun 1 + 比 + Noun 2 + 更 / 还 + Adj.	他 比 姚明 还 高 。
+/chinese/grammar/ASG6KUS5	ASG6KUS5	Expressing "much more" in comparisons	Noun 1 + 比 + Noun 2 + Adj. + 多了	拼音 比 汉字 容易 多了 。
+/chinese/grammar/ASGHFPGG	ASGHFPGG	Expressing "except" and "in addition" with "chule… yiwai"	除了 ⋯⋯ (+ 以外) ，Subj. + 都 / 也 / 还 ⋯⋯	除了 他 ，我们 都 去 过 。
+/chinese/grammar/ASGGIVT0	ASGGIVT0	Expressing "if... then..." with "ruguo... jiu..."	如果 ⋯⋯ ，就 ⋯⋯	如果 有 困难 ，就 给 我 打 电话 。
+/chinese/grammar/ASGN4VUU	ASGN4VUU	Expressing "if" with "ruguo... dehua"	如果⋯⋯ (的话) ，(就) ⋯⋯	如果 明天 下雨 的话 ，我们 就  不 去 了 。
+/chinese/grammar/ASGTYJ3E	ASGTYJ3E	Expressing "not only... but also"	不但⋯⋯，而且⋯⋯	他 不但 聪明，而且 勤劳。
+/chinese/grammar/ASGLOS9C	ASGLOS9C	Comparing "cai" and "jiu"	才 vs 就	我 花 了 两 天 才修 好 ，你 一下子 就 弄 坏 了。
+/chinese/grammar/ASGJFFWG	ASGJFFWG	Comparing "gang" and "gangcai"	刚 vs. 刚才	你 刚才 去 哪儿 了？我  刚 回来 。
+/chinese/grammar/ASGV55Y4	ASGV55Y4	Comparing "youdian" and "yidian"	有点 vs. 一点	这 衣服 有点 贵 ，便宜 一点 吧。
+/chinese/grammar/ASGTBHBG	ASGTBHBG	Comparing "zai" and "you"	再 vs 又	我不能再喝了，你走后我又喝了两瓶 。
+/chinese/grammar/ASGQJ5IC	ASGQJ5IC	Comparing "haishi" and "huozhe"	还是 vs. 或者	我们 明天 见 还是 后天 见 ？明天 或者 后天 都 可以 。

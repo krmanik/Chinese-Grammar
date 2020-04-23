@@ -1,0 +1,107 @@
+/chinese/grammar/ASGCPDSR	ASGCPDSR	Indicating the whole with "quan"	全 + Noun	我们 全 家 都 去 旅游 了。
+/chinese/grammar/ASGLEVUV	ASGLEVUV	Negative adjectives with "-si le"	Adj. + 死了	我 今天 累 死了 。
+/chinese/grammar/ASG1NAXO	ASG1NAXO	Approximations with "chabuduo"	Subj. + 差不多	我们 的 中文 水平 差不多。
+/chinese/grammar/ASGJPQ0Q	ASGJPQ0Q	Assessing situations with "kanlai"	看来 + Judgment to the Situation；在 + Person + 看来	看来他不来了，都这么晚了。
+/chinese/grammar/ASGUD25J	ASGUD25J	Coincidence with "zhenghao"	Subj. + 正好 + Verb Phrase	他 正好 问 了 我 想 问 的 问题 。
+/chinese/grammar/ASGD3C4S	ASGD3C4S	Emphasizing negation with "you"	又 + 不 / 没 + Verb	又 没 下雨 ，带 伞 干吗 ？
+/chinese/grammar/ASGSPAKW	ASGSPAKW	Emphatic adverb "ke"	可 + Adj. (+ 了)	这 件 事情 对 他 造成 的 影响 可 大 了 。
+/chinese/grammar/ASGTKXFR	ASGTKXFR	Expressing "all along" with "yuanlai"	Subj. + 原来 + Predicate	原来 昨天 那个 人 是 你 啊 。
+/chinese/grammar/ASG6ESWW	ASG6ESWW	Expressing "almost" using "chadian"	Subj. + 差点 + Predicate	我 今天 差点儿 迟到 了 。
+/chinese/grammar/ASG8KUHG	ASG8KUHG	Expressing "always" with "conglai"	从来 + 都 (是) + Predicate	我 从来 都 是 一个人，已经 习惯了。
+/chinese/grammar/ASG6B21A	ASG6B21A	Expressing "as a result" with "jieguo"	Reason / Condition ，结果 + Result	他 没 好好 复习 ，结果 没 通过 考试。
+/chinese/grammar/ASGD4BA3	ASGD4BA3	Expressing concern with "kongpa"	恐怕 + Fact	恐怕 今天 做 不 完。
+/chinese/grammar/ASG49BE6	ASG49BE6	Expressing "enough" with "gou"	Subj. + 够 + Predicate (+ 了)	我们 买 了 很 多 菜 ，够 吃 了 。
+/chinese/grammar/ASGKWV6F	ASGKWV6F	Expressing "even" with "shenzhi"	甚至	他们 贡献 出 所有 的 精力 ， 甚至 最 宝贵 的 生命 。
+/chinese/grammar/ASGWAR65	ASGWAR65	Expressing "had better" with "haishi"	还是 + Verb	我们 还是 先 吃饭 吧。
+/chinese/grammar/ASG35CD7	ASG35CD7	Expressing "had better" with "zuihao"	Subj. + 最好 + Predicate	你 最好 先 休息 一下 。
+/chinese/grammar/ASGTVEHJ	ASGTVEHJ	Expressing "in the end" with "daodi"	到底	事情 到底 是 办 成 了 。
+/chinese/grammar/ASGDK0BR	ASGDK0BR	Expressing "in the end" with "jiujing"	究竟	你 究竟 喜 不 喜欢 我？
+/chinese/grammar/ASGQJJYO	ASGQJJYO	Expressing "just" with "gang"	Subj. + 刚 + Verb	他 刚 走。
+/chinese/grammar/ASGBC7A0	ASGBC7A0	Expressing "one by one" with "yi"	一 + Measure Word + 一 + Measure Word	宝宝 一 天 一 天 在 长大 。
+/chinese/grammar/ASG6F157	ASG6F157	Expressing "originally" with "benlai"	本来⋯⋯	搬家 本来 就 很 麻烦。
+/chinese/grammar/ASGPW8PP	ASGPW8PP	Expressing "small quantity" with "jiu"	就 + Subject + Predicate	这 件 事 就 我 一 个 人 知道 。
+/chinese/grammar/ASG0D90L	ASG0D90L	Expressing the unexpected with "jingran"	Subj. + 竟然 ⋯⋯	我们 要 出发 的 时候，他 竟然 说 不 去 了 。
+/chinese/grammar/ASGIVGZO	ASGIVGZO	Expressing "to make certain" with "qianwan"	千万 + Verb/Verb Phrase	千万 别 泄露 出 去。
+/chinese/grammar/ASGMCP9V	ASGMCP9V	Rhetorical questions with "nandao"	难道⋯⋯？	这 都 是 你 引起 的 ， 难道 你 就 不 内疚 ？
+/chinese/grammar/ASGLJM55	ASGLJM55	Sequencing with "xian" and "zai"	先⋯⋯ ，再⋯⋯	先 洗 手 ，再 吃饭 。
+/chinese/grammar/ASG8GSXY	ASG8GSXY	Using "ye" and "dou" together	也都 + Verb / Adj.	他们 也 都 是 法国 人 。
+/chinese/grammar/ASGDF1F7	ASGDF1F7	Expressing "quite" with "ting"	挺 + Adj. + 的	你 男朋友 挺 帅 的 。
+/chinese/grammar/ASGDIDAC	ASGDIDAC	Ending a non-exhaustive list with "shenme de"	Noun 1, Noun 2 + 什么的	明天 去 野餐 ，我们 要 不 要 买 一些 水果 ，零食 什么的 。
+/chinese/grammar/ASGF763H	ASGF763H	Non-exhaustive lists with "dengdeng"	⋯⋯ 等 / 等等	长城、故宫 等 地方 都 是 北京 有名 的 景点 。
+/chinese/grammar/ASGA0S4T	ASGA0S4T	A softer "but" with "buguo"	⋯⋯ ，不过 ⋯⋯	他 的 汉语 口语 不错 ，不过 不 认识 汉字 。
+/chinese/grammar/ASG4FB55	ASG4FB55	Expressing "and then" with "yushi"	⋯⋯ ，于是 ⋯⋯	他 实在 太 懒 了 ，于是 老板 把 他 辞 了 。
+/chinese/grammar/ASGHQRI1	ASGHQRI1	Expressing "in addition" with "haiyou"	⋯⋯ ，还有 ，⋯⋯	你 需要 吃 药 。还有，要 多 休息 。
+/chinese/grammar/ASG2KQZI	ASG2KQZI	Expressing "in addition" with "lingwai"	⋯⋯ ，另外 ，⋯⋯	希望 你 不要 再 迟到 了。另外，你 应该 穿 得 正式 一点 。
+/chinese/grammar/ASGATDLX	ASGATDLX	Expressing "in addition" with "zaishuo"	⋯⋯ ，再说 ，⋯⋯	这么 晚 ，别 走 了 。再说 ，外面 还 在 下雨 。
+/chinese/grammar/ASGUD81S	ASGUD81S	Two words for "but"	……，可是 / 但是……	我 喜欢 他，可是但是 他 不 喜欢 我。
+/chinese/grammar/ASGMX0ZS	ASGMX0ZS	Using "er" to explain contrasting ideas	Sentence 1， + 而 + Sentence 2	以后 后悔 的 人 不 是 我，而 是 你 自己。
+/chinese/grammar/ASGBZ578	ASGBZ578	Using "lai" to connect two verb phrases	通过 / 用 + Method + 来 + Verb Phrase	用 这 种 方法 来 赚钱 ，真 丢人 。
+/chinese/grammar/ASGD1LNT	ASGD1LNT	Expressing "within (it/them)" with "qizhong"	其中	有 五 个 人 报名 了 ， 其中 两 个 是 女生 。
+/chinese/grammar/ASG84RE9	ASG84RE9	Expressing fractions with "fenzhi"	Denominator + 分之 + Numerator	在 我们 班 ，外国 学生 占 三 分 之 一 。
+/chinese/grammar/ASGI9WXT	ASGI9WXT	Advanced yes-no questions with "ma"	Confirmation + Question + 吗 ？	你 要 什么 吗 ?
+/chinese/grammar/ASGELOTT	ASGELOTT	Reviewing options with "ba"	Option 1吧 ，⋯⋯ ；Option 2 吧 ，⋯⋯	不 说 吧 ，他 还 会 做 错 ；说 吧，他 肯定 不 高兴 。
+/chinese/grammar/ASG19S1M	ASG19S1M	Using "de" (modal particle)	⋯⋯的	我 不 会 骗 你 的。
+/chinese/grammar/ASGHVFRA	ASGHVFRA	Expressing "along with…" with "suizhe"	随着 A + 的 + Verb， Subj. + Predicate	随着 经济 的 发展，人们 的 生活 越 来 越 好。
+/chinese/grammar/ASGH13JY	ASGH13JY	Idiomatic phrases with "zai"	在 + Topic + 上 ，Subj. ⋯⋯	在美国 历史 上 ，最重要 的 总统 是 谁 ？
+/chinese/grammar/ASGWSSQL	ASGWSSQL	Using "yi... wei..."	以 + A + 为 + B	我们 公司 是 以 亚洲 市场  为 主，以 欧美 市场  为 辅。
+/chinese/grammar/ASGUQUPG	ASGUQUPG	Emphasizing a negation with "bing"	Subj. + 并 + 不 + Verb / Adj.	当 金融 分析 人员 并 不是 我 的 梦想。
+/chinese/grammar/ASG5T7XC	ASG5T7XC	Causative verbs	Subj. + 让 / 叫 / 请 / 使 + Person + Predicate	你 为什么 不 让 我 去 ？
+/chinese/grammar/ASG765HD	ASG765HD	Expressing "it depends" with "kan"	这 / 那 + 要看 / 得看 + Unclear Situation	这 得 看 你 的 时间 。
+/chinese/grammar/ASG3ROPY	ASG3ROPY	Expressing "it seems" with "haoxiang"	好像⋯⋯	他 好像 是 英国 人 。
+/chinese/grammar/ASGA632B	ASGA632B	Expressing "lies in" with "zaiyu"	⋯⋯ 在于 ⋯⋯	我们 服务 的 特色 在于 个性化 。
+/chinese/grammar/ASGRBC43	ASGRBC43	Expressing "mistakenly think that" with "yiwei"	Subj. + 以为⋯⋯	我 以为 你 不 是 我的 朋友。
+/chinese/grammar/ASG9B1E3	ASG9B1E3	Expressing "through" with "tongguo"	通过 + Agent / Method ，⋯⋯	我们 是 通过 他 的 朋友 找到 他 的 。
+/chinese/grammar/ASG1CEA8	ASG1CEA8	Expressing "to come from" with "laizi"	Subj. + 来自 + Place	我 来自 美国。
+/chinese/grammar/ASG98FZK	ASG98FZK	Using "lai" as a dummy verb	(让 +) Subj. + 来	让 我 来 吧。
+/chinese/grammar/ASGECD0E	ASGECD0E	Expressing "don't need to" with "buyong"	Subj. + 不用 + Verb Phrase	不用 担心 。
+/chinese/grammar/ASGPXLP9	ASGPXLP9	Expressing "must" with "dei"	得 + Verb	我们 得 走 了 。
+/chinese/grammar/ASG5C89R	ASG5C89R	Combining verbs with "bing"	Verb + 并 + Verb	我 同意 并且 支持 你 的 决定 。
+/chinese/grammar/ASG9B0M8	ASG9B0M8	Doing something less with "shao"	少 + Verb	请 少 放 点 盐 。
+/chinese/grammar/ASGLKGZP	ASGLKGZP	Doing something more with "duo"	多 + Verb	多 吃 点 。
+/chinese/grammar/ASGGNXVR	ASGGNXVR	Emphasizing the doer of an action with "you"	由 + Person + Verb	这个 项目 由 小李 来 完成 。
+/chinese/grammar/ASG8NM5E	ASG8NM5E	Expressing "never" with "conglai"	从来 + 不 / 没(有) + Verb	她 从来 不 喝酒。我 从来 没有 去 过 美国。
+/chinese/grammar/ASGGJA6A	ASGGJA6A	Expressing "to be worth" doing with "zhide"	值得 + Verb	这个 想法 不错 ， 值得 考虑 。
+/chinese/grammar/ASG1CCAP	ASG1CCAP	Expressing "until" with "dao"	Verb + 到 + Time / Event	我 昨天 晚上 工作 到 十二 点 半 。
+/chinese/grammar/ASGA0098	ASGA0098	Indicating negative impact with "haide"	害得 + Verb Phrase	老师 给 的 作业 太 难 了 ， 害得 我 浪费 了 一 个 下午 学习 。
+/chinese/grammar/ASG4GVRX	ASG4GVRX	Separable verb	Verb-Obj.	我们 见 过 面 。
+/chinese/grammar/ASG7AUNJ	ASG7AUNJ	Using "zhe" when "verbing away"	Verb + 着 + Verb + 着	走 着 走 着 ， 他们 到 家 了 。
+/chinese/grammar/ASGW863F	ASGW863F	Expressing "although" with "jinguan"	尽管⋯⋯，但是⋯⋯	尽管 我 很 生气 ，但是 我 没 发脾气 。
+/chinese/grammar/ASG1RE80	ASG1RE80	Expressing contrariness with "dao"	倒⋯⋯	雨 没有 停 ， 倒 大 起来 了 。
+/chinese/grammar/ASGEG2QB	ASGEG2QB	The "however" adverb "que"	⋯⋯，却⋯⋯	他们 一见钟情 ， 却 没有 在 一起 。
+/chinese/grammar/ASGL90MR	ASGL90MR	Expressing "due to…" with "youyu"	由于⋯⋯，⋯⋯	由于 天气 原因， 我们 的 航班 取消了。
+/chinese/grammar/ASGG4BX9	ASGG4BX9	Expressing "since" with "jiran"	既然⋯⋯，就⋯⋯	既然 来 了 ， 就 留 下来 吃饭 吧 。
+/chinese/grammar/ASGUEFAL	ASGUEFAL	Expressing "therefore" with "yinci"	⋯⋯，因此⋯⋯	这 家 饭店 涨价 了 ， 因此 顾客 也 少 了 。
+/chinese/grammar/ASGSCN01	ASGSCN01	Advanced uses of direction complement "-qilai"	Verb + 起来	宝宝，你 应该 把 你 的 玩具 收  起来 。
+/chinese/grammar/ASG8LWBJ	ASG8LWBJ	Direction complement	Verb (+ Direction) + 来 / 去	我们 走 过去 吧 。
+/chinese/grammar/ASGBPXOB	ASGBPXOB	Direction complement "-qilai"	Verb / Adj.+ 起来	天气 热 起来 了 。
+/chinese/grammar/ASGCPJPQ	ASGCPJPQ	Potential complement	Verb + 得 / 不 + Complement	做 得 完  做 不 完
+/chinese/grammar/ASG98C1A	ASG98C1A	Expressing "as long as" with "zhiyao"	只要⋯⋯，就⋯⋯	只要 你 过来 ， 我们 就 很 开心 。
+/chinese/grammar/ASGMD0YY	ASGMD0YY	Expressing "unless" with "chufei"	除非⋯⋯ ，才⋯⋯	除非 你 求情 ，他 才 肯 帮忙 。
+/chinese/grammar/ASGBUXN7	ASGBUXN7	Expressing "even if…" with "jishi"	即使⋯⋯，也⋯⋯	即使 你 没胃口 ， 也 要 吃 一点 。
+/chinese/grammar/ASGN4S8O	ASGN4S8O	Expressing "if… then…" with "yaoshi"	要是⋯⋯，就⋯⋯	你 要是 真 想 我，就 给 我 打 电话 。
+/chinese/grammar/ASG0NDS6	ASG0NDS6	Expressing "no matter" with "buguan"	不管⋯⋯，都 / 也⋯⋯	不管 身体 好 坏 ， 他 都 工作 到 深夜 。
+/chinese/grammar/ASG6ZI8L	ASG6ZI8L	Expressing "no matter" with "wulun"	无论 / 不论⋯⋯，都 / 也⋯⋯	无论 天 多 热 ， 都 要 坚持 。
+/chinese/grammar/ASGOWBSL	ASGOWBSL	Expressing "all" with "suoyou"	所有 (+ 的) + Noun	我 喜欢 吃 所有 我 妈妈 做 的 菜 。
+/chinese/grammar/ASGMT1M1	ASGMT1M1	Expressing "one of" with "zhiyi"	⋯⋯之一	你 是 我 最 好 的 朋友 之一 。
+/chinese/grammar/ASGD3FE5	ASGD3FE5	Expressing "the other" with "lingwai"	另外 + Number + Measure Word + Noun	我 有 两 个 手机 ，一 个 是 小米 ，另 一 个 是 iPhone 。
+/chinese/grammar/ASGF273F	ASGF273F	Advanced uses of "lian"	连 + Verb + 都 + 不 / 没 + Verb (，就 ⋯⋯)	朋友 ？这个 人 我 连 见 都 没 见 过 。
+/chinese/grammar/ASG6509E	ASG6509E	Explaining purpose with "wei... er..."	为⋯⋯ ，而⋯⋯	不 为 朋友圈 而 运动
+/chinese/grammar/ASGZRPCK	ASGZRPCK	Expressing "both… and…" with "ji...you"	既⋯⋯也 / 又⋯⋯	他 做 事情 既 快 又 好。
+/chinese/grammar/ASGFBWZL	ASGFBWZL	Expressing location with "zai... shang / xia / li"	在 + Place + 上 / 下 / 里 / 旁边	你 的 手机 在 桌子 上。
+/chinese/grammar/ASGNP0WV	ASGNP0WV	Expressing "even" with "lian" and "dou"	连 + Subj. + 都 (+ 不 / 没) + Verb	你 连 小狗 都 怕 ？
+/chinese/grammar/ASG13ALM	ASG13ALM	Expressing "every" with question words	Question Word + 都 + Predicate	谁 都 可以 进 。
+/chinese/grammar/ASG7D4EC	ASG7D4EC	Expressing "multiples" with "bei"	Noun 1 + 是 + Noun 2 + 的 + Number + 倍	他 现在 的 工资 是 两 年 前 的 三 倍 。
+/chinese/grammar/ASGRURCZ	ASGRURCZ	Expressing "not at all" with "yidianr ye bu"	Subj. + 一点 + 也 / 都 + 不 + Adj.	你 一点 也 不 胖 。
+/chinese/grammar/ASG0EQQJ	ASG0EQQJ	Expressing not knowing how to do something using "hao"	Subj. + 不知道 + Verb Phrase + 好	我 真的 不 知道 怎么办才 好 。
+/chinese/grammar/ASGD60A6	ASGD60A6	Phrases using "laishuo"	对 + Person + 来说 / 一般 来说	一般 来说 ，私立 学校 都 比较 贵 。
+/chinese/grammar/ASGT9Y8P	ASGT9Y8P	Conceding a point with "shi"	Adj. + 是 + Adj.， 但是⋯⋯	这个 东西 好 是 好 ，就是 太 贵 了 。
+/chinese/grammar/ASGTFUD0	ASGTFUD0	Events in quick succession with "yi... jiu..."	Subj. + 一 + Event 1，就 + Event 2	他 一 到 家 ，就 去 洗澡  了 。
+/chinese/grammar/ASGCWHNF	ASGCWHNF	Expressing various aspects with "yi fangmian"	一方面⋯⋯，一方面⋯⋯	一 方面 他 很 喜欢 这 份 工作 ， 一 方面 他 又 觉得 工资 太 低 。
+/chinese/grammar/ASGJ1VZQ	ASGJ1VZQ	Many types of "not only... but also..."	不但 / 不只 / 不仅⋯⋯，而且 / 还 / 也 ⋯⋯	他 不仅 喜欢 吃 中国 菜，而且  也 会 做 几 个 中国 菜！
+/chinese/grammar/ASG56QKW	ASG56QKW	Comparing "benlai" and "yuanlai"	本来 vs 原来	他原来的 公司  本来 要 派 他 去 上海，但是 因为 家 里 有事，去 不了 了。
+/chinese/grammar/ASGJFFWG	ASGJFFWG	Comparing "gang" and "gangcai"	刚 vs. 刚才	你 刚才 去 哪儿 了？我  刚 回来 。
+/chinese/grammar/ASG1HNBU	ASG1HNBU	Comparing "guanyu" and "duiyu"	关于 vs 对于	对于 那 个 人， 关于 我们 的 学习 方法
+/chinese/grammar/ASG59C66	ASG59C66	Comparing "li" and "cong"	离 vs. 从	从 明天 开始，我 不 抽烟 了。
+/chinese/grammar/ASGFNS52	ASGFNS52	Comparing "fan'er" and “xiangfan"	反而 vs 相反	吃 水果 不但 对 他 没 好处，反而 有 坏处。 老板 的 想法 跟 我 的 相反。
+/chinese/grammar/ASGDPS0J	ASGDPS0J	Comparing "kending" "queding" and “yiding"	肯定 vs 确定 vs 一定	老板 肯定 了 我们 团队 的 工作。你 确定 他 是 我们 要 找 的 人？一定 要 小心。
+/chinese/grammar/ASGLNKZR	ASGLNKZR	Comparing "yihou" and "de shihou"	以后 vs 的时候	打 篮球 的 时候 会 出 了 很 多 汗 ，所以 打 完 篮球 以后 我 要 洗澡 。

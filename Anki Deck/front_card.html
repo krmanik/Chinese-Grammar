@@ -1,0 +1,156 @@
+<div id="split_sent">{{Split}}</div>
+<div class="spacer"></div>
+
+<div id="dash"></div>
+______
+<div class="spacerSmall"></div>
+<div id="container"></div>
+<div class="spacer"></div>
+<button class="btn-check" onclick="check();">CHECK</button>
+<button class="btn-reset" onclick="reset();">RESET</button>
+<button class="btn-hint" onclick="hint();">HINT</button>
+<div class="spacer"></div>
+<div id="correct"></div>
+<div class="spacer"></div>
+<div class="spacer"></div>
+<div id="structure" style="display:none" class="structure">{{Structure}}</div>
+<div class="spacerMedium"></div>
+<div id="chinese" class="chinese" style="display:none">{{Chinese}}</div>
+<div class="spacerSmall"></div>
+<div id="pinyin" class="pinyin" style="display:none">{{Pinyin}}</div>
+<div class="spacerMedium"></div>
+<div id="translation" class="translation" style="display:none">{{Translation}}</div>
+<div class="spacer"></div>
+<div id="usedfor" class="notes" style="display:none">{{UsedFor}}</div>
+<script>
+    document.getElementById("split_sent").style.display = "none";
+    var sen = document.getElementById("split_sent").innerHTML;
+    var senTrim = sen.trim();
+    var senArr = senTrim.split(/\s+/);
+    var dashElement = "";
+    var btnElements = "";
+
+    function shuffle(array) {
+        array.sort(() => Math.random() - 0.5);
+    }
+
+    shuffle(senArr);
+    console.log(senArr);
+    //console.log(senArr2);
+    for (var i = 0; i < senArr.length; i++) {
+        btnElements += "<button class='btn-q' onclick='btnClick(this.id);' id = 'btn" + i + "'> " + senArr[i] + ' </button>';
+    }
+
+    var container = document.getElementById("container");
+    container.innerHTML = btnElements;
+    var picked = 0;
+    function dashClick(clicked) {
+        //console.log(clicked);
+        var buttons = document.getElementsByClassName('btn-q');
+        console.log(buttons.length);
+        var dash = document.getElementById("dash");
+        dashChild = dash.childNodes;
+        //console.log(document.getElementById(clicked).innerText);
+        for (i = 0; i < senArr.length; i++) {
+            if (document.getElementById(clicked).innerText.trim() == buttons[i].innerText.trim()) {
+                //console.log("Match");
+                buttons[i].style.opacity = "1";
+                buttons[i].style.pointerEvents = "auto";
+            }
+        }
+
+        var dash = document.getElementById("dash");
+        //console.log(dash.childElementCount);
+        document.getElementById(clicked).remove();
+    }
+
+    function check() {
+        var dash = document.getElementById("dash");
+        dashChild = dash.childNodes;
+        console.log(dashChild.length);
+        var text = "";
+        for (i = 0; i < dashChild.length; i++) {
+            text += dashChild[i].innerText + " ";
+        }
+        newText = text.replace(/\s+/g, ' ').trim();
+        console.log(newText);
+
+        var origText = document.getElementById("split_sent").innerText;
+        //console.log(origText);
+        if (newText.trim() == origText.trim()) {
+            //alert("Matched");
+            document.getElementById("correct").innerHTML = "CORRECT";
+
+            document.getElementById("correct").style.color = "green";
+            document.getElementById("chinese").style.display = "block";
+            document.getElementById("pinyin").style.display = "block";
+            document.getElementById("translation").style.display = "block";
+            document.getElementById("structure").style.display = "block";
+            document.getElementById("usedfor").style.display = "block";
+        } else {
+            //alert("Not Matched");
+            document.getElementById("correct").innerHTML = "INCORRECT";
+            document.getElementById("correct").style.color = "red";
+        }
+
+    }
+
+    function reset() {
+        var buttons = document.getElementsByClassName('btn-q');
+        for (i = 0; i < senArr.length; i++) {
+            //console.log("Match");
+            buttons[i].style.opacity = "1";
+            buttons[i].style.pointerEvents = "auto";
+        }
+        var dash = document.getElementById("dash");
+        dash.innerHTML = "";
+        document.getElementById("correct").innerHTML = "";
+
+        document.getElementById("chinese").style.display = "none";
+        document.getElementById("pinyin").style.display = "none";
+        document.getElementById("translation").style.display = "none";
+        document.getElementById("structure").style.display = "none";
+        document.getElementById("usedfor").style.display = "none";
+    }
+
+    // Button click
+    function btnClick(clicked) {
+        var dashElement = document.createElement("div");
+        var text = document.getElementById(clicked).innerText;
+        dashElement.style.display = "inline";
+        dashElement.innerHTML = "<button class='btn-a' style='display: inline' onclick='dashClick(this.id);' id=" + picked + ">" + text + " </button>"; // add text at top of button
+        document.getElementById("dash").appendChild(dashElement);
+        picked++;
+        document.getElementById(clicked).style.opacity = "0.2"; //hide button that has been clicked
+        document.getElementById(clicked).style.pointerEvents = "none";
+    }
+
+    var hintTapCount = 0;
+    function hint() {
+        switch (hintTapCount) {
+
+            case 0:
+                document.getElementById("structure").style.display = "block";
+                hintTapCount++;
+                break;
+
+            case 1:
+                document.getElementById("translation").style.display = "block";
+                hintTapCount++;
+                break;
+
+            case 2:
+                document.getElementById("chinese").style.display = "block";
+                document.getElementById("pinyin").style.display = "block";
+                hintTapCount++;
+                break;
+
+            default:
+                document.getElementById("chinese").style.display = "block";
+                document.getElementById("pinyin").style.display = "block";
+                document.getElementById("translation").style.display = "block";
+                document.getElementById("structure").style.display = "block";
+                document.getElementById("usedfor").style.display = "block";
+        }
+    }
+</script>

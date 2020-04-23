@@ -1,0 +1,78 @@
+/chinese/grammar/ASGIRILI	ASGIRILI	Continuation with "hai"	Subj. + 还 + Verb Phrase / Adj.	你 还在 看 书 ？
+/chinese/grammar/ASGY21RK	ASGY21RK	Emphasis with "jiushi"	就是 + Verb	我 父母 就是 不 让 我 一个人 去 。
+/chinese/grammar/ASGWNEYM	ASGWNEYM	Emphasizing quantity with "dou"	大家 / 很多人 + 都⋯⋯	很 多 地方 都 有 wifi。
+/chinese/grammar/ASG9B210	ASG9B210	Expressing "about to" with "jiuyao"	还有 + Time Period + 就要 + Verb Phrase + 了	还有 五 天 就要 放假 了 。
+/chinese/grammar/ASGIZQJ2	ASGIZQJ2	Expressing "again" in the future with "zai"	再 + Verb	我 下 次 再 来。
+/chinese/grammar/ASGT1CIR	ASGT1CIR	Expressing "already" with "dou"	都 + Time + 了	都 九点 了 ，快点 起床 ！
+/chinese/grammar/ASGNXI27	ASGNXI27	Expressing "already" with "yijing"	已经⋯⋯了	他 已经 走 了 。
+/chinese/grammar/ASGJBZKC	ASGJBZKC	Expressing "and also" with "hai"	还 + Verb	她 有 一个 弟弟，还 有 一个 妹妹。
+/chinese/grammar/ASGKITRZ	ASGKITRZ	Expressing earliness with "jiu"	Subj. + Time + 就 + Verb + 了	我 昨晚 八 点 半 就 睡觉 了 。
+/chinese/grammar/ASGEB54D	ASGEB54D	Expressing "then" with "jiu"	就 + Verb Phrase	我们 现在 有 时间，就 去吧。
+/chinese/grammar/ASG9W0UX	ASG9W0UX	Negative commands with "bie"	别 + Verb	别走。
+/chinese/grammar/ASG9LLJU	ASG9LLJU	Asking about degree with "duo"	Subj. + 多 + Adj. ?	他 多 高？
+/chinese/grammar/ASGPM3MY	ASGPM3MY	Expressing "a little too" with "you dian"	有点(儿) + Adj.	我 有点 饿 。
+/chinese/grammar/ASGI96BQ	ASGI96BQ	Expressing distance with "li"	Place 1 + 离 + Place 2 + Adv. + 近 / 远	我 家 离 大学 很 近。
+/chinese/grammar/ASG4NIPB	ASG4NIPB	Expressing "even more" with "geng"	更 + Adj.	我 想 找 一个 更 有钱 的 男朋友。
+/chinese/grammar/ASGC885D	ASGC885D	Expressing "really" with "zhen"	真 + Adj.	你 女朋友 真 漂亮 。
+/chinese/grammar/ASGAY164	ASGAY164	Moderating positive adjectives with "hai"	还 + Adj.	还 可以。还 好。
+/chinese/grammar/ASGLQKD2	ASGLQKD2	Modifying nouns with phrase + "de"	Phrase + 的 + Noun	去 北京 的 火车。今天 来 的 人。
+/chinese/grammar/ASG3544U	ASG3544U	Superlative "zui"	最 + Adj. (+ 了)	谁 最 有钱 ？
+/chinese/grammar/ASG8VJM8	ASG8VJM8	The filler word "neige"	⋯⋯那个⋯⋯	那个⋯⋯你 可以 做 我 的 女 朋友 吗？
+/chinese/grammar/ASG6120A	ASG6120A	Reduplication of measure words	MW + MW	个 个 都 很 好。
+/chinese/grammar/ASGWN185	ASGWN185	Expressing "when" with "de shihou"	⋯⋯的时候	你 不在 的 时候，我 会 想 你。
+/chinese/grammar/ASG004ZK	ASG004ZK	Indicating a number in excess	Number + 多	三 十 多 岁
+/chinese/grammar/ASGHC9CA	ASGHC9CA	Using "ji" to mean "several"	几 + Measure Word + Noun	桌子 上 有 几 本 书。
+/chinese/grammar/ASGOIDEO	ASGOIDEO	Aspect particle "zhe"	Verb + 着	我 读 ，你 听 着 。
+/chinese/grammar/ASGJIP2E	ASGJIP2E	Conceding with "ba"	⋯⋯吧	那 好 吧。
+/chinese/grammar/ASGM055L	ASGM055L	Expressing "already" with just "le"	Subj. + Verb Phrase + 了	你 应该 问 老师 。我 问 了 。
+/chinese/grammar/ASGQGV3P	ASGQGV3P	Expressing experiences with "guo"	Verb + 过	我 去 过 中国 。
+/chinese/grammar/ASGC8CB8	ASGC8CB8	Modal particle "ne"	⋯⋯呢 ?	我 不 要 回家 。还 早 呢 ！
+/chinese/grammar/ASGP69JD	ASGP69JD	Using "guo" with "le"	Verb + 过 + 了	她 吃 过 了 。
+/chinese/grammar/ASG8SI2K	ASG8SI2K	Basic comparisons with "bi"	Noun 1 + 比 + Noun 2 + Adj.	你 比 我 胖 。
+/chinese/grammar/ASGLHAV3	ASGLHAV3	Expressing "for" with "gei"	Subj. + 给 + Recipient + Verb Phrase	妈妈 在 给 孩子 们 做饭 。
+/chinese/grammar/ASGGGIW8	ASGGGIW8	Expressing "from… to…" with "cong… dao…"	从⋯⋯到⋯⋯	从1 号 到 5 号 我 在 上海。
+/chinese/grammar/ASGAD070	ASGAD070	Expressing "toward" with "wang"	往 + Direction Word	往 + Direction  Place + Verb
+/chinese/grammar/ASG8ICO9	ASG8ICO9	Using "dui" with verbs	Subj. + 对 + Person + Verb	宝宝 对 我 笑 了。
+/chinese/grammar/ASGPS9NY	ASGPS9NY	Using the verb "xing"	姓 + Surname	你 姓 什么 ？
+/chinese/grammar/ASG95AL1	ASG95AL1	Auxiliary verb "yao" and its multiple meanings	要 + Noun / 要 + Verb	我 要 一 杯 水。
+/chinese/grammar/ASGVT2KN	ASGVT2KN	Expressing "be going to" with "yao"	Subj. + 要 + Verb (+ 了)	我 要 去 吃饭，你 去 吗？
+/chinese/grammar/ASG6SPYK	ASG6SPYK	Expressing permission with "keyi"	可以 + Verb	这里 可以 吸烟 吗?
+/chinese/grammar/ASGXVEAR	ASGXVEAR	Wanting to do something with "yao"	要 + Verb	我 要 吃饭 。
+/chinese/grammar/ASGPRGAX	ASGPRGAX	Actions in a row	(Verb Phrase 1) + (Verb Phrase 2)	我们 去 咖啡店 喝 咖啡 吧。
+/chinese/grammar/ASGNVE15	ASGNVE15	Expressing "together" with "yiqi"	一起 + Verb	我们 一起 去 吧！要 不 要 一起 吃饭？
+/chinese/grammar/ASG5AODR	ASG5AODR	Measure words for verbs	Verb + Number + Measure Word	做 三 次。读 两 遍 。
+/chinese/grammar/ASGIVZJU	ASGIVZJU	Negative commands with "buyao"	不要 + Verb	不要 说 英文！
+/chinese/grammar/ASGYC77J	ASGYC77J	Reduplication of verbs	Verb + Verb	你 看看。
+/chinese/grammar/ASG90DXK	ASG90DXK	Special cases of "zai" following verbs	Verb + 在 + Place	我 住 在 北京。放 在 这里。
+/chinese/grammar/ASGLFX54	ASGLFX54	Using "dao" to mean "to go to"	到 + Place	我 到 上海。
+/chinese/grammar/ASGJQU93	ASGJQU93	Using "hao" to mean "easy"	好 + Verb	好 做。好 买。
+/chinese/grammar/ASGWCESP	ASGWCESP	Verbing briefly with "yixia"	Verb + 一下	你 看 一下 。
+/chinese/grammar/ASGMMHTQ	ASGMMHTQ	Verbs followed by "gei"	Subj. + Verb + 给 + Recipient + Obj.	他 送给 我 一 束 花 。
+/chinese/grammar/ASG3ORNN	ASG3ORNN	Verbs preceded by "gei"	Subj. + 给 + Target + Verb + Obj.	现在 不要 给 他 打 电话 。
+/chinese/grammar/ASGI2OAG	ASGI2OAG	Verbs that take double objects	Subj. + Verb + Indirect Obj. + Direct Obj.	我 问 了 老师 一 个 问题。
+/chinese/grammar/ASG79STE	ASG79STE	Degree complement	Verb + 得⋯⋯	你 做 得 不错 。
+/chinese/grammar/ASG8R2V8	ASG8R2V8	Potential complement "-bu dong" for not understanding	Verb + 不懂	我 听不懂 。
+/chinese/grammar/ASGNNMST	ASGNNMST	Result complements	Verb + 好 / 完 / 错	我们 吃 好 了 。
+/chinese/grammar/ASGWNGEP	ASGWNGEP	Result complements "-dao" and "-jian"	Verb + 到 / 见	听 到 了 吗 ？
+/chinese/grammar/ASGNQUC1	ASGNQUC1	Result complement "-wan" for finishing	Verb + 完 (+ 了)	我 说 完 了。
+/chinese/grammar/ASGB6L4M	ASGB6L4M	Expressing "every" with "mei"	每 + Measure Word (+ Noun)	每 个 人。每 天。
+/chinese/grammar/ASG64BTE	ASG64BTE	Measure words for counting	Number + Measure Word + Noun	一 个 人。一 杯 水。
+/chinese/grammar/ASGZC42B	ASGZC42B	Measure words with "this" and "that"	这 / 那 + Measure Word (+ Noun)	那 个 人。这 杯 水。
+/chinese/grammar/ASGK904U	ASGK904U	Ordinal numbers with "di"	第 + Number (+ Measure Word)	你 是 我 的 第 一 个 朋友。
+/chinese/grammar/ASGZH7K3	ASGZH7K3	Affirmative-negative question	Verb + 不 + Verb / Adj. + 不 + Adj.	去 不 去？好 不 好  ?
+/chinese/grammar/ASGD7NS3	ASGD7NS3	Asking why with "zenme"	怎么⋯⋯？	你 怎么 没 来？
+/chinese/grammar/ASGD4EC8	ASGD4EC8	Simple rhetorical questions	不 是…… 吗 ？	不 是 说好 了 吗 ？怎么 会 这样 ？
+/chinese/grammar/ASG4D8XB	ASG4D8XB	Tag questions with "bu"	⋯⋯是不是 / 对不对 / 好不好 ?	你们 明天 来，好 不 好 ?
+/chinese/grammar/ASGSJYZ2	ASGSJYZ2	Tag questions with "ma"	⋯⋯是吗 / 对吗 / 好吗 ?	这样 做， 对 吗 ?
+/chinese/grammar/ASGTDUJO	ASGTDUJO	Cause and effect with "yinwei" and "suoyi"	因为⋯⋯ 所以⋯⋯	因为 饿 了，所以 吃饭。
+/chinese/grammar/ASGNGEU8	ASGNGEU8	Expressing "about to happen" with "le"	快 + Verb / Adj. + 了	快 下雨 了 。
+/chinese/grammar/ASGAQV6C	ASGAQV6C	Expressing "everything" with "shenme dou"	什么 + 都 / 也⋯⋯	爸爸 什么 都 知道。
+/chinese/grammar/ASGZ8OIF	ASGZ8OIF	Expressing "stop doing" with "bie… le"	别 + Verb + 了	别 哭 了，烦 死了 。
+/chinese/grammar/ASG0UFR4	ASG0UFR4	The "shi... de" construction for indicating purpose	是⋯⋯ 的	我 是 来 上海 旅游 的 。
+/chinese/grammar/ASG8YTSF	ASG8YTSF	The "shi... de" patterns: an overview	是⋯⋯ 的	你 是 哪个 学校 的 ？
+/chinese/grammar/ASGXHQEF	ASGXHQEF	Expressing "every time" with "mei" and "dou"	每次 + Event 1 + 都 + Event 2	为什么 每 次 我 来 他 都 不 在。
+/chinese/grammar/ASG6KUS5	ASG6KUS5	Expressing "much more" in comparisons	Noun 1 + 比 + Noun 2 + Adj. + 多了	拼音 比 汉字 容易 多了 。
+/chinese/grammar/ASGXI560	ASGXI560	Expressing "although" with "suiran" and "danshi"	虽然⋯⋯ ，但是 / 可是⋯⋯	虽然 渴 了，但是 不 想 喝 啤酒。
+/chinese/grammar/ASGD88UO	ASGD88UO	Comparing "yao" and "xiang"	要 vs 想	我 要 一 杯 水 。 我 想 你 。
+/chinese/grammar/ASGZL717	ASGZL717	Comparing "hui," "neng," "keyi"	会 vs. 能 vs. 可以	我 会 跳舞 。这里 不 能 跳舞 。我 可以 请 你 跳舞 吗 ？
+/chinese/grammar/ASGJ46H1	ASGJ46H1	Comparing "er" and "liang"	二 vs 两	两 个 人。二 十 二。

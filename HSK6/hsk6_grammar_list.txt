@@ -1,0 +1,52 @@
+/chinese/grammar/ASGXXP6M	ASGXXP6M	Advanced usages of the contrary "dao"	Subject + Verb + 得 + 倒 + Adjective	你 说 得 倒 容易，那 你来！
+/chinese/grammar/ASGA1B87	ASGA1B87	Emphasizing with "henshi"	Subj. + 很是 + Adj.	这样做 很是 必要 。
+/chinese/grammar/ASGJIFI9	ASGJIFI9	Expressing "a full" with "zuzu"	足足 + Verb	姚明 身高 足足 有 2.26米。
+/chinese/grammar/ASG47D26	ASG47D26	Expressing "again and again" with "yizai"	Subj. + 一再 + Verb	我 一再  跟 你 说 ，出门在外 要 小心 。
+/chinese/grammar/ASGDU0XL	ASGDU0XL	Expressing "always previously" with "xianglai"	Subject + 向来（都） + Verb/Verb Phrase	我 向来 努力，所以 我 每 一 次 考试 都 获得 满分。
+/chinese/grammar/ASGC11D0	ASGC11D0	Expressing "as expected" with "guoran"	果然 + Predicate	第一名 果然 是 她 ！我 就 知道 。
+/chinese/grammar/ASGB316B	ASGB316B	Expressing "as if" with "sihu"	Subj. + 似乎 ⋯⋯	你 说 得 似乎 很 有道理 。
+/chinese/grammar/ASG38F8A	ASG38F8A	Expressing "as long as" with "fanshi"	凡是 + Noun 都 / 就 / 一律 + Predicate	凡是 不 听话 的 孩子 都 没有 糖 吃 。
+/chinese/grammar/ASGFZOLQ	ASGFZOLQ	Expressing "contrary to expectations" with "pianpian"	A ,Subject + 偏偏 + B	不 叫 他 去，他 偏偏 要 去。
+/chinese/grammar/ASGC8A38	ASGC8A38	Expressing "no exception" with "yilu"	一律 + Predicate	明天 的 部门 会议 一律 都 要 参加 。
+/chinese/grammar/ASGW0911	ASGW0911	Expressing "nothing but" with "wufei"	无非 + 是 + Verb / Noun	我 无非 是 想 要 一 台 电脑 ！
+/chinese/grammar/ASGMDJTD	ASGMDJTD	Expressing "when the time comes" with "dao shihou"	A, 到时候 + B	现在 不 好好 准备 考试，到时候 又 要 后悔 了。
+/chinese/grammar/ASG3AD49	ASG3AD49	Expressing "why" with "hebi"	Subj. + 何必 + Predicate	都是 一家人 ，你们 何必 这么 客气 ？
+/chinese/grammar/ASGPV5Z2	ASGPV5Z2	Expressing that something has already happened with "laizhe"	Sentence + 来着	刘老师 说 课本 在 桌子 上 来着。
+/chinese/grammar/ASGCC713	ASGCC713	Expressing "as well as" with "yiji"	Subj. + 何必 + Predicate	A ，B + 以及 + C
+/gramwiki/?title=ASGF561D&action=edit&redlink=1	ASGF561D (page does not exist)	Expressing "in short" with "zongzhi"	（⋯⋯ ，）总之 ，⋯⋯	不管 他 的 理由 是 什么 ，总之 ，我 不会 再 相信 他 了 。
+/chinese/grammar/ASG3GX2H	ASG3GX2H	Indicating contrast with "ze"	Clause 1，+ 则 + Clause 2	南方 人 喜欢 吃 甜 的 东西，北方 人 则 喜欢 吃 咸 的 东西。
+/chinese/grammar/ASG0A67E	ASG0A67E	"In order to avoid" with "yimian"	以免 + Verb Phrase	这儿 有 高压电线，请 不要 靠近，以免 发生 危险。
+/chinese/grammar/ASGH4A7W	ASGH4A7W	Expressing "your side" with "ben"	本 + Noun	是 本 公司 的 商业 模式。
+/chinese/grammar/ASGDZIO0	ASGDZIO0	Indicating a characteristic with "xing"	Word + 性	发生 地震 的 可能性 较 大。
+/chinese/grammar/ASGNLGGX	ASGNLGGX	Expressing "is or is not" with "shifou"	是否 + Verb/Adjective	我 不 知道 如果 那 个 房间 是否 有 足够 空间。
+/chinese/grammar/ASGBAIMA	ASGBAIMA	Expressing possession with "zhi"	Noun + 之 + Noun	这些 解决 问题 的 方式 仍然 有 不足 之 处。
+/chinese/grammar/ASGVMC4B	ASGVMC4B	Expressing the self-evident with "ma"	Statement + 嘛	大家 有 话 就 说 嘛 。
+/chinese/grammar/ASGTVKAR	ASGTVKAR	Expressing "whether or not" with "yufou"	Verb/Adjective + 与否	成功 与否，都 靠 自己。
+/chinese/grammar/ASGVBH2H	ASGVBH2H	Using the particle "bei"	Sentence + 呗	如果 你 不 想 去 就 不 去 呗。
+/chinese/grammar/ASGC1BI5	ASGC1BI5	Expressing "in light of" with "jianyu"	鉴于 + observation, conclusion/suggestion	鉴于 是 紧急 情况，我们 应该 尽快 做出 决定。
+/chinese/grammar/ASG50DR1	ASG50DR1	Adding emphasis with "fei....buke"	Subj. + 非(要) + Verb Phrase (+ 不可)	我 非 学 好 汉语 不可 。
+/chinese/grammar/ASG5HZG6	ASG5HZG6	"Could it be that" with "qibushi"	岂不是 + rhetorical question	如果 他 要 来， 岂不是 一 件 好 事？
+/chinese/grammar/ASGKU8FU	ASGKU8FU	Expressing "at the same time" with "jian"	Subject + 兼 + Verb + A + 和 + B	这 首 歌 的 主唱 兼  词 作者 就 是 他 。
+/chinese/grammar/ASGYYOXD	ASGYYOXD	Expressing "could it be possible that" with "mofei"	Subject + 莫非 + rhetorical question	莫非 你 真的 相信 他？
+/chinese/grammar/ASGLQNS3	ASGLQNS3	Expressing "from this" with "youci"	由此 + Verb	人们 滥 用 农药 和 其他 化学 原料，由此 产生 了 一系列 严重 的 食品 安全 问题。
+/chinese/grammar/ASGK0ZG7	ASGK0ZG7	Expressing “must" with "feidei"	非得 + Action + 不可/不行/不成	现在 是 紧急 情况，医生 非得 马上 开 刀 不可。
+/chinese/grammar/ASGGI66V	ASGGI66V	Expressing "nothing is more...than" with "moguoyu"	Object 1 + 莫过于 + Object 2	美国 最 好 的 大学 莫过于 哈佛大学。
+/chinese/grammar/ASGWI5CV	ASGWI5CV	Expressing "Prefer...rather than" with "yuqi...buru"	与其 + A，宁可 / 宁愿 / 宁肯）+ B	与其 这样 等着，不如 找点 事 做做。
+/chinese/grammar/ASGA77KW	ASGA77KW	Expressing "similar to" with "gen... shide"	跟 + Noun/Pronoun/Adjective + 似的	他们 俩 好 得 跟 亲 姐妹 似的。
+/chinese/grammar/ASGMCX2H	ASGMCX2H	Expressing "to be worthy of" with "bukuishi"	不愧是（不愧为）+ N	他 不愧是 一名 光荣的 人民 教师。
+/chinese/grammar/ASGU98B7	ASGU98B7	Expressing who is in charge with "you... zuozhu"	Area of responsibility + 由 + Person(s) + 做主	作为 商店 经理，所有 的 事情 都 由 你 做主，出 了 事情 也 由 你 负责。
+/chinese/grammar/ASGK4CGK	ASGK4CGK	Stating two or more reasons with "yilai...erlai"	一来 + Reason 1 ，二来 + Reason 2	一来 是那边 的 宾馆 很 贵，二来 也那边 没有 什么 好看 的 风景。
+/chinese/grammar/ASGOR3M4	ASGOR3M4	Expressing "I bet" using "liang"	谅 + Subject + Verb phrase	谅 他 也 不敢！
+/chinese/grammar/ASGE2U25	ASGE2U25	Expressing something is "not worth doing" with "buxie"	Subject + 不屑(于) + Verb	我 的 同事 是 一位 很 诚实 的 人 ，他 不屑 说谎。
+/gramwiki/?title=ASG0000&action=edit&redlink=1	ASG0000 (page does not exist)	Additional way to express "in the name of"	Subj. + 借 + noun + 之名 + situation	借之名。
+/gramwiki/?title=ASG000000&action=edit&redlink=1	ASG000000 (page does not exist)	Express an action and its effect by using "tongguo… shi"	通过 + verb (situation occurring)，使 resultative situation	通过，使国。
+/gramwiki/?title=ASG000000&action=edit&redlink=1	ASG000000 (page does not exist)	Expressing "inevitably" with "shibi"	势必	势必。
+/gramwiki/?title=ASG000000&action=edit&redlink=1	ASG000000 (page does not exist)	Use "tangruo" to express "if"	倘若 + resultative situation	倘若 有问题，可以给我打个电话。
+/chinese/grammar/ASG73H8K	ASG73H8K	Comparing "budebu" and "zhihao"	不得不 vs 只好	刚 下 飞机，还 没 找到 宾馆，行李 不得不只好 寄存 在 朋友 那。
+/chinese/grammar/ASG0K25S	ASG0K25S	Comparing "fan'er" and “que"	反而 vs 却	她反而 有点不高兴。他 却 没 带 伞。
+/chinese/grammar/ASG9JK0B	ASG9JK0B	Comparing "genben" and "daodi"	根本 vs 到底	我 根本 不知道 女朋友 为什么 生气。我们 到底 什么时候 结束？
+/chinese/grammar/ASGXJYJD	ASGXJYJD	Comparing "genju" and "ju"	根据 vs 据	据 他 说，灾情 并 不是 很 严重。根据我的 看法，他 是 个 很 负 责任 的 人。
+/chinese/grammar/ASGGXSIR	ASGGXSIR	Comparing "huifu" and "huanyuan"	恢复 vs 还原	中国 1977年 恢复 了 高考。他 想 把 这个 应用程序 还原 成 代码。
+/chinese/grammar/ASGCZ37R	ASGCZ37R	Comparing "juran" and "fan'er"	居然 vs 反而	雨 不仅 没 停，反而 越 下 越 大 了 - 他 居然 就 住在 我们家 隔壁，真是 缘分 呐！
+/chinese/grammar/ASGBVSWQ	ASGBVSWQ	Comparing "yishi" and "yidu"	一度 vs 一时	他 过去 一度 想 自杀。这 雨 一时 半会儿 停 不 了。
+/chinese/grammar/ASGPINA4	ASGPINA4	Comparing "renjia" and "bieren"	人家 vs. 别人	因为 人家 喜欢 你 啊 。我 不 在乎 别人 怎么 说 。
