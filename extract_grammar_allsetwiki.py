@@ -32,7 +32,7 @@ with open("allsetwiki_hsk5_link.txt", encoding="utf8") as f:
 
 		wrong = driver.find_elements_by_class_name("x")
 
-
+		# To find page containing wrong sentences, to cleaned manually from text file
 		found = False
 		if len(wrong) > 0:
 			found = True
@@ -68,6 +68,8 @@ with open("allsetwiki_hsk5_link.txt", encoding="utf8") as f:
 				st_sen = st_sen.split(sep,1)[0].strip()
 				st_sen  += " " + sep
 			
+			# Page containing multiple grammar structures should be manually cleaned
+			# For single grammar structure. It is simple
 			all_set = st_sen +"\t"+ jiegou_str +"\t"+ usedfor.text +"\t"+ heading.text + "\t" + url
 			
 			print(all_set)
