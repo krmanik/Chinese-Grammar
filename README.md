@@ -37,6 +37,32 @@ Check this website for more. <a href="http://blog.tutorming.com/mandarin-chinese
 Find the python script in the repo.
 That may not be perfect script but I have used it to make this.
 
+# CSV Files - Chinese Grammar List
+[HSK1 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk1.csv)
+<br>[HSK2 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk2.csv)
+<br>[HSK3 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk3.csv)
+<br>[HSK4 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk4.csv)
+<br>[HSK5 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk5.csv)
+<br>[HSK6 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk6.csv)
+
+### The fields in the CSV as follows:
+
+#### Split | Chinese | Pinyin | Translation | Sound | Structure(s) | Used For | Title | URL
+
+```
+她 在 看 书 。	她在看书。	tā zài kàn shū 。	She is reading.	[sound:hsk1_grammar_sent1.mp3]	:: Subj. + 在 + Verb + Obj. ::	Describing actions, Indicating conditions, Referring to the present	Expressing actions in progress with "zai"	https://resources.allsetlearning.com/chinese/grammar/ASG846EA
+```
+
+<b>Split</b> - Chinese sentences with spaces between words
+<br><b>Chinese</b> - Sentences without spaces
+<br><b>Pinyin</b> - Pinyin for Sentences
+<br><b>Translation</b> - English translation
+<br><b>Sound</b> - Sound name for Anki deck, audio files are in audio folder of respective hsk folder
+<br><b>Structure(s)</b> - Grammar Structures for respective sentences 
+<br><b>Used For</b> - The grammar usage
+<br><b>Title</b> - Article title 
+<br><b>URL</b> - link to webpage allsetwiki
+
 # My other Anki decks
 [Other Anki Decks](https://ankiweb.net/shared/byauthor/2120672269)
 
