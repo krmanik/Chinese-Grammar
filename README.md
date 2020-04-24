@@ -2,7 +2,7 @@
  Chinese Grammar List from https://resources.allsetlearning.com/chinese/grammar/  . 
 
 The contents of this deck sourced from <a href="https://resources.allsetlearning.com/chinese/grammar/">Chinese Grammar Wiki.</a>
-Deck is separated in HSK level (HSK1 to HSK6). 
+Deck is separated in HSK level (HSK1 to HSK6).
 The decks are divided in to 6 parts. It is easy to import in part wise.
 
 # Download
@@ -13,11 +13,6 @@ The decks are divided in to 6 parts. It is easy to import in part wise.
 - [HSK5](https://ankiweb.net/shared/info/1395037365)
 - [HSK6](https://ankiweb.net/shared/info/2120672269)
 
-# Images Anki Desktop
-![Desktop](https://github.com/infinyte7/Chinese-Grammar/blob/master/Images/anki_desktop.png)
-
-# Images AnkiDroid
-![Ankidroid](https://github.com/infinyte7/Chinese-Grammar/blob/master/Images/anki_mobile.png)
 
 # Disclaimer
 The content is taken from  <a href="https://resources.allsetlearning.com/chinese/grammar/">Chinese Grammar Wiki.</a> The pinyin is generated using <a href="https://pypi.org/project/pinyin/">pinyin python module</a>. The translation of this sentences translated using <a href="https://pypi.org/project/googletrans/">googletrans python module</a>. The audio for all sentences generated using <a href="https://pypi.org/project/gTTS/">gTTS python module</a>.
@@ -27,15 +22,6 @@ The pinyin may be incorrect for example.
 <br>都 - dū , dōu
 
 Check this website for more. <a href="http://blog.tutorming.com/mandarin-chinese-learning-tips/chinese-characters-with-various-pronunciations">tutorming.com</a>
-
-# Code
-[Front Template](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/front_card.html)
-<br>[Back Template](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/back_card.html)
-<br>[Card CSS](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/card.css)
-
-# Python Script
-Find the python script in the repo.
-That may not be perfect script but I have used it to make this.
 
 # CSV Files - Chinese Grammar List
 [HSK1 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk1.csv)
@@ -62,6 +48,22 @@ That may not be perfect script but I have used it to make this.
 <br><b>Used For</b> - The grammar usage
 <br><b>Title</b> - Article title 
 <br><b>URL</b> - link to webpage allsetwiki
+
+# Images Anki Desktop
+![Desktop](https://github.com/infinyte7/Chinese-Grammar/blob/master/Images/anki_desktop.png)
+
+# Images AnkiDroid
+![Ankidroid](https://github.com/infinyte7/Chinese-Grammar/blob/master/Images/anki_mobile.png)
+
+
+# Code
+[Front Template](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/front_card.html)
+<br>[Back Template](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/back_card.html)
+<br>[Card CSS](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/card.css)
+
+# Python Script
+Find the python script in the repo.
+That may not be perfect script but I have used it to make this.
 
 # My other Anki decks
 [Other Anki Decks](https://ankiweb.net/shared/byauthor/2120672269)
