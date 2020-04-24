@@ -23,6 +23,13 @@ The pinyin may be incorrect for example.
 
 Check this website for more. <a href="http://blog.tutorming.com/mandarin-chinese-learning-tips/chinese-characters-with-various-pronunciations">tutorming.com</a>
 
+Some sentences may be correct but due to order in sentences it may show incorrect. For ex:-
+我不知道她。
+and
+她不知道我。
+
+Both sentences are correct. But after clicking 'check' button, it will show answer according to order of characters in the sentences.
+
 # CSV Files - Chinese Grammar List
 [HSK1 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk1.csv)
 <br>[HSK2 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk2.csv)
