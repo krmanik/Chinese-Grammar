@@ -72,6 +72,10 @@ Both sentences are correct. But after clicking 'check' button, it will show answ
 Find the python script in the repo.
 That may not be perfect script but I have used it to make this.
 
+# Contributing
+Please report any issues.
+Any contribution will be appreciated.
+
 # My other Anki decks
 [Other Anki Decks](https://ankiweb.net/shared/byauthor/2120672269)
 
