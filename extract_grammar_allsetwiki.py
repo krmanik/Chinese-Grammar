@@ -32,7 +32,7 @@ with open("allsetwiki_hsk5_link.txt", encoding="utf8") as f:
 
 		wrong = driver.find_elements_by_class_name("x")
 
-		# To find page containing wrong sentences, to cleaned manually from text file
+		# To find page containing wrong sentences, to be cleaned manually from text file
 		found = False
 		if len(wrong) > 0:
 			found = True
