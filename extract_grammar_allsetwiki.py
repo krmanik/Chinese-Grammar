@@ -59,7 +59,7 @@ with open("allsetwiki_hsk5_link.txt", encoding="utf8") as f:
 			if len(wrong) > 0 and wrong[0].text in st_sen:
 				continue
 				
-			if "。" in st_sen or "。" in st_sen:
+			if "。" in st_sen or "." in st_sen:
 				sep = "。"
 				st_sen = st_sen.split(sep,1)[0].strip()
 				st_sen += " " + sep
