@@ -68,10 +68,6 @@ Both sentences are correct. But after clicking 'check' button, it will show answ
 <br>[Back Template](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/back_card.html)
 <br>[Card CSS](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/card.css)
 
-# Python Script
-Find the python script in the repo.
-That may not be perfect script but I have used it to make this.
-<b> Note: For educational purpose only.</b>
 # Contributing
 Please report any issues.
 Any contribution will be appreciated.
