@@ -63,6 +63,7 @@
     font-size: 2rem;
     padding: 0.25rem 0.35rem;
     margin: 0.2rem;
+    display:inline-block;
 }
 
 .btn-q:active {
@@ -81,6 +82,7 @@
     font-size: 1rem;
     padding: 0.25rem 0.35rem;
     margin: 0.2rem;
+    display:inline-block;
 }
 
 .btn-a:active {
