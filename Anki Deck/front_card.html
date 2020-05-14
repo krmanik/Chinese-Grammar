@@ -38,7 +38,7 @@ ______
     console.log(senArr);
     //console.log(senArr2);
     for (var i = 0; i < senArr.length; i++) {
-        btnElements += "<button class='btn-q' onclick='btnClick(this.id);' id = 'btn" + i + "'> " + senArr[i] + ' </button>';
+        btnElements += "<div class='btn-q' onclick='btnClick(this.id);' id = 'btn" + i + "'> " + senArr[i] + ' </div>';
     }
 
     var container = document.getElementById("container");
@@ -118,7 +118,7 @@ ______
         var dashElement = document.createElement("div");
         var text = document.getElementById(clicked).innerText;
         dashElement.style.display = "inline";
-        dashElement.innerHTML = "<button class='btn-a' style='display: inline' onclick='dashClick(this.id);' id=" + picked + ">" + text + " </button>"; // add text at top of button
+        dashElement.innerHTML = "<div class='btn-a' style='display: inline' onclick='dashClick(this.id);' id=" + picked + ">" + text + " </div>"; // add text at top of button
         document.getElementById("dash").appendChild(dashElement);
         picked++;
         document.getElementById(clicked).style.opacity = "0.2"; //hide button that has been clicked
