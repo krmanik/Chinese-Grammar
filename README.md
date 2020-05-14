@@ -30,6 +30,46 @@ Some sentences may be correct but due to order in sentences it may show incorrec
 
 Both sentences are correct. But after clicking 'check' button, it will show answer according to order of characters in the sentences.
 
+# To Change size of characters in sentences.
+### question button
+Change this,
+```
+font-size: 1rem;
+```
+<b>in following</b>
+```css
+.btn-q {
+    background-color: var(--white);
+    border: 2px solid var(--gray);
+    border-bottom: 5px solid var(--gray);
+    border-radius: 9px;
+    font-size: 2rem;
+    padding: 0.25rem 0.35rem;
+    margin: 0.2rem;
+    display:inline-block;
+  }
+```
+
+### answer button
+Change this,
+```
+font-size: 1rem;
+```
+<b>in following</b>
+```css
+.btn-a {
+    background-color: var(--white);
+    border: 2px solid var(--gray);
+    border-bottom: 5px solid var(--gray);
+    border-radius: 9px;
+    font-size: 1rem;
+    padding: 0.25rem 0.35rem;
+    margin: 0.2rem;
+    display:inline-block;
+  }
+```
+
+
 # CSV Files - Chinese Grammar List
 [HSK1 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk1.csv)
 <br>[HSK2 CSV](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk2.csv)
