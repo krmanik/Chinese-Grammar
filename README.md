@@ -5,10 +5,12 @@ The contents of this deck sourced from <a href="https://resources.allsetlearning
 Deck is separated in HSK level (HSK1 to HSK6).
 The decks are divided in to 6 parts. It is easy to import in part wise.
 
-# Download
+# Download From AnkiWeb
 - [HSK1](https://ankiweb.net/shared/info/551486109)
+- [HSK1 - HSK6](https://ankiweb.net/shared/info/1003242128)
 
-Download from Release page.
+### Download from GitHub Release page.
+- [HSK1 - HSK6](https://github.com/infinyte7/Chinese-Grammar/releases)
 
 # Disclaimer
 The content is taken from  <a href="https://resources.allsetlearning.com/chinese/grammar/">Chinese Grammar Wiki.</a> The pinyin is generated using <a href="https://pypi.org/project/pinyin/">pinyin python module</a>. The translation of this sentences translated using <a href="https://pypi.org/project/googletrans/">googletrans python module</a>. The audio for all sentences generated using <a href="https://pypi.org/project/gTTS/">gTTS python module</a>.
@@ -105,11 +107,16 @@ font-size: 1rem;
 <br>[Card CSS](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/card.css)
 
 # Update existing deck without download whole deck
-
+Copy the HTML/CSS from [Anki Deck Files](https://github.com/infinyte7/Chinese-Grammar/tree/master/Anki%20Deck) and paste it into existing deck.
+To know more view this.
+https://github.com/infinyte7/Anki-xiehanzi/wiki/Update-xiehanzi-deck-on-AnkiDesktop
 
 # Contributing
 Please report any issues.
 Any contribution will be appreciated.
+
+# Pinyin update, issues, or any question
+https://github.com/infinyte7/Chinese-Grammar/issues
 
 # My other Anki decks
 [Other Anki Decks](https://ankiweb.net/shared/byauthor/2120672269)

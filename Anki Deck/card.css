@@ -6,6 +6,8 @@
     background-color: white;
 }
 
+.card.night_mode {}
+
 .structure {
     color: #E64A19;
 }
@@ -16,17 +18,17 @@
 
 .chinese {
     font-size: 2.2rem;
-    color: #006064;
+    color: #fba910;
 }
 
 .pinyin {
     font-size: 1rem;
-    color: grey;
+    color: #27b46e;
 }
 
 .translation {
     font-size: 1.5rem;
-    color: teal;
+    color: #29b6f6;
 }
 
 .notes {
@@ -47,6 +49,7 @@
 }
 
 /*https://codepen.io/danielkvist/pen/xMLKJN*/
+
 :root {
     --gray: #ddd;
     --white: #fdfdfd;
@@ -63,7 +66,8 @@
     font-size: 2rem;
     padding: 0.25rem 0.35rem;
     margin: 0.2rem;
-    display:inline-block;
+    display: inline-block;
+    color: black;
 }
 
 .btn-q:active {
@@ -79,10 +83,11 @@
     border: 2px solid var(--gray);
     border-bottom: 5px solid var(--gray);
     border-radius: 9px;
-    font-size: 1rem;
+    font-size: 2rem;
     padding: 0.25rem 0.35rem;
     margin: 0.2rem;
-    display:inline-block;
+    color: black;
+    display: inline-block;
 }
 
 .btn-a:active {
@@ -99,6 +104,7 @@
 }
 
 /*https://codepen.io/guerrav/pen/oXZLjd*/
+
 .btn-check {
     border-radius: 10px;
     border: none;
@@ -177,4 +183,13 @@
 
 .btn-play:focus {
     outline-style: none;
+}
+
+@media screen and (max-width: 480px) {
+    .btn-a {
+        font-size: 1.5rem;
+    }
+    .btn-q {
+        font-size: 1.5rem;
+    }
 }
