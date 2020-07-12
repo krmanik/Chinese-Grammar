@@ -119,7 +119,7 @@ Any contribution will be appreciated.
 https://github.com/infinyte7/Chinese-Grammar/issues
 
 # My other Anki decks
-[Other Anki Decks](https://ankiweb.net/shared/byauthor/2120672269)
+[Other Anki Decks](https://ankiweb.net/shared/byauthor/119943820)
 
 # License
 <b>[Chinese Grammar Wiki ©2011-2020 AllSet Learning](https://resources.allsetlearning.com/chinese/grammar/Chinese%20Grammar%20Wiki:Copyrights)</b>
