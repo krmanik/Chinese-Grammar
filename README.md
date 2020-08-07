@@ -121,6 +121,8 @@ https://github.com/infinyte7/Chinese-Grammar/issues
 # My other Anki decks
 [Other Anki Decks](https://ankiweb.net/shared/byauthor/119943820)
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L820U7D)
+
 # License
 <b>[Chinese Grammar Wiki ©2011-2020 AllSet Learning](https://resources.allsetlearning.com/chinese/grammar/Chinese%20Grammar%20Wiki:Copyrights)</b>
 <br>[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
