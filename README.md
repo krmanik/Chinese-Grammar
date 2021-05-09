@@ -8,11 +8,13 @@ The decks are divided in to 6 parts. It is easy to import in part wise.
 # Download HSK1 Grammar From AnkiWeb
 - [HSK1](https://ankiweb.net/shared/info/551486109)
 
-### Download HSK1 Grammar from GitHub Release page.
-- [HSK1](https://github.com/infinyte7/Chinese-Grammar/releases)
+## Download HSK1 to HSK6 Grammar From AnkiWeb
+- [HSK1 - HSK6](https://ankiweb.net/shared/info/797518833)
 
-# Download HSK1 to HSK6 Grammar From Patreon
-- [HSK1 - HSK6](https://www.patreon.com/posts/chinese-grammar-45755185)
+
+### Download HSK 1 - HSK 6 Grammar from GitHub Release page.
+- [HSK1 - HSK6](https://github.com/infinyte7/Chinese-Grammar/releases)
+
 
 # Disclaimer
 The content is taken from  <a href="https://resources.allsetlearning.com/chinese/grammar/">Chinese Grammar Wiki.</a> The pinyin is generated using <a href="https://pypi.org/project/pinyin/">pinyin python module</a>. The translation of this sentences translated using <a href="https://pypi.org/project/googletrans/">googletrans python module</a>. The audio for all sentences generated using <a href="https://pypi.org/project/gTTS/">gTTS python module</a>.
