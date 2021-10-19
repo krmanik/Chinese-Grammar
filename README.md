@@ -21,9 +21,9 @@ The pinyin may be incorrect for example.
 Check this website for more. <a href="http://blog.tutorming.com/mandarin-chinese-learning-tips/chinese-characters-with-various-pronunciations">tutorming.com</a>
 
 Some sentences may be correct but due to order in sentences it may show incorrect. For ex:-
-<br>我不知道她。
+<br>我会说英文和中文。
 <br>and
-<br>她不知道我。
+<br>我会说中文和英文。
 
 Both sentences are correct. But after clicking 'check' button, it will show answer according to order of characters in the sentences.
 
@@ -78,11 +78,7 @@ font-size: 1rem;
 ### The fields in the CSV as follows:
 
 ##### Split | Chinese | Pinyin | Translation | Sound | Structure(s) | Used For | Title | URL
-
-```
-她 在 看 书 。	她在看书。	tā zài kàn shū 。	She is reading.	[sound:hsk1_grammar_sent1.mp3]	:: Subj. + 在 + Verb + Obj. ::	Describing actions, Indicating conditions, Referring to the present	Expressing actions in progress with "zai"	https://resources.allsetlearning.com/chinese/grammar/ASG846EA
-```
-
+View [TSV files](https://github.com/infinyte7/Chinese-Grammar/blob/master/CSV%20Files%20HSK1%20-%20HSK6/hsk1.csv) for more.<br>
 <b>Split</b> - Chinese sentences with spaces between words
 <br><b>Chinese</b> - Sentences without spaces
 <br><b>Pinyin</b> - Pinyin for Sentences
@@ -93,12 +89,8 @@ font-size: 1rem;
 <br><b>Title</b> - Article title 
 <br><b>URL</b> - link to webpage allsetwiki
 
-# Images Anki Desktop
-![Desktop](https://github.com/infinyte7/Chinese-Grammar/blob/master/Images/anki_desktop.png)
-
-# Images AnkiDroid
-![Ankidroid](https://github.com/infinyte7/Chinese-Grammar/blob/master/Images/anki_mobile.png)
-
+# Images
+![](https://raw.githubusercontent.com/infinyte7/Chinese-Grammar/master/Images/anki_desktop.png)
 
 # Code
 [Front Template](https://github.com/infinyte7/Chinese-Grammar/blob/master/Anki%20Deck/front_card.html)
